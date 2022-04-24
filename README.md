@@ -8,4 +8,6 @@ A bot to automate the game UniversalPaperclips.
 3. Install all needed dependencies: `pip install -r requirements.txt`
 4. Run the bot: `python3 paperclips.py`
 
+
+
 -- Made by azh
